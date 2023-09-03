@@ -2,6 +2,7 @@
 ### Exploring Microsoft Azure
 ## Storage:
 1. Azure Blob Storage:
+
 Service Description: Azure Blob Storage is a highly scalable and cost-effective object storage service that allows you to store and manage unstructured data such as documents, images, videos, and more. It also helps you create data lakes for your analytics needs, and provides storage to build powerful cloud-native and mobile apps. It is ideal for storing large amounts of data and serving it over the internet.
 
 Python Interaction: You can interact with Azure Blob Storage using Python by using the Azure SDK for Python, specifically the azure-blob-storage library. This library provides Python classes and methods to upload, download, and manage blobs in Azure Blob Storage.
